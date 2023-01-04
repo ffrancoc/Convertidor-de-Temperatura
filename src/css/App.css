@@ -1,0 +1,17 @@
+
+.contenedor {
+  width: 100vw;
+  height: 100vh;
+  display: grid;
+  place-content: center;
+  background-color: #f5f5f5;
+}
+
+.contenedor > h1 {
+  color: #241f31;  
+  text-align: center;
+}
+
+.temp-entries {
+  display: flex;  
+}
